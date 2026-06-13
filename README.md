@@ -132,7 +132,7 @@ G -->|Yes| H[Final Generated Code]
 | Frontend      | Streamlit                                                     |
 | Backend       | Python                                                        |
 | API           | Hugging Face Inference API                                    |
-| LLM Support   | DeepSeek Models                                               |
+| LLM Support   | DeepSeek-V3.2 (via Hugging Face Router)                                               |
 | Visualization | Plotly                                                        |
 | Data Format   | JSON                                                          |
 | Concepts      | Multi-Agent Systems, Metacognition, Symmetry-Aware Validation |
@@ -336,6 +336,7 @@ def collision_free(agents):
 MS Ai
 * Email: [saddamr1838@gmail.com](mailto:saddamr1838@gmail.com)  
 * LinkedIn: https://linkedin.com/in/muhammad-saddam-185a80215
+* GitHub : https://github.com/saddam1838
 
 ---
 <div align="center">
