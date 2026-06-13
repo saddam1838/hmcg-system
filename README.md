@@ -280,16 +280,15 @@ For published experimental results, please refer to the accompanying research do
 
 ---
 
-# 📸 Demo
-
-You can include screenshots here after implementation.
-
 ## 📸 Demo
 
+### Dashboard
 ![Dashboard](assets/dashboard.png)
 
+### Strategic Planning
 ![Planning](assets/planning.png)
 
+### Generated Code
 ![Generated Code](assets/generated_code.png)
 
 ---
@@ -297,13 +296,11 @@ You can include screenshots here after implementation.
 # 👨‍💻 Authors
 
 **Muhammad Saddam**
-
+MS Ai
 * GitHub: https://github.com/saddam1838
 * LinkedIn: https://linkedin.com/in/muhammad-saddam-185a80215
 
 ---
-
-
 <div align="center">
 
 Built with ❤️ as part of an MS Artificial Intelligence research initiative.
