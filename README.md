@@ -293,12 +293,13 @@ For published experimental results, please refer to the accompanying research do
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Muhammad Saddam**  
-MS Artificial Intelligence | COMSATS University Islamabad  
+**Muhammad Saddam**
+MS Ai
 📧 [saddamr1838@gmail.com](mailto:saddamr1838@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/muhammad-saddam-185a80215)  
+🔗 [LinkedIn](https://linkedin.com/in/muhammad-saddam-185a80215) 
+
 ---
 <div align="center">
 
