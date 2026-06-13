@@ -301,7 +301,7 @@ def collision_free(agents):
             if dist(a1, a2) < 1:
                 return False  # Works for any agent ordering
     return True
-
+```
 ---
 
 # 🔮 Future Work
