@@ -284,13 +284,13 @@ For published experimental results, please refer to the accompanying research do
 
 You can include screenshots here after implementation.
 
-```markdown
+## 📸 Demo
+
 ![Dashboard](assets/dashboard.png)
 
 ![Planning](assets/planning.png)
 
 ![Generated Code](assets/generated_code.png)
-```
 
 ---
 
