@@ -26,7 +26,7 @@
 * [Project Structure](#-project-structure)
 * [Evaluation](#-evaluation)
 * [Future Work](#-future-work)
-* [Authors](#-authors)
+* [Author](#-author)
 
 ---
 
@@ -293,14 +293,13 @@ For published experimental results, please refer to the accompanying research do
 
 ---
 
-# 👨‍💻 Authors
+## 👨‍💻 Author
 
-**Muhammad Saddam**
-MS Ai
-* GitHub: https://github.com/saddam1838
-* LinkedIn: https://linkedin.com/in/muhammad-saddam-185a80215
+**Muhammad Saddam**  
+MS Artificial Intelligence | COMSATS University Islamabad  
+📧 [saddamr1838@gmail.com](mailto:saddamr1838@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/muhammad-saddam-185a80215)  
 
----
 <div align="center">
 
 Built with ❤️ as part of an MS Artificial Intelligence research initiative.
